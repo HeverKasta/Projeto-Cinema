@@ -14,3 +14,12 @@ header {
 .centro {
     text-align: center;
 }
+
+body {
+    margin: 0%;
+}
+
+iframe {
+    width: 560px;
+    height: 315px;
+}
